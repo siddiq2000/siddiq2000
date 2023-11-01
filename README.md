@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=siddiq2000&style=flat-square&color=green)
+![](https://komarev.com/ghpvc/?username=siddiq2000&style=flat-square&color=green&base=99)
 - 👋 Hi, I’m @siddiq2000
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Java Full Stack Development
